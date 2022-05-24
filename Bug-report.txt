@@ -1,15 +1,12 @@
 ﻿Bug_id: 5
 Title: The white dash line in the widget is not visible at the top and bottom when the widget is resized to the maximum size.
 
-
 Severity: Major
 Priority: High
-
 
 Environment: Samsung Galaxy M31, Android 11
                        
 Precondition: Installed app “Android-GridTest”
-
 
 STR: 
 1. Open app “Android-GridTest”
@@ -18,12 +15,9 @@ STR:
 4. Tap on the widget
 5. Resize the widget until the maximum height size is reached
 
-
 AR: The white dash line in the widget is not visible at the top and bottom when the widget is resized to the maximum size.
 
-
 ER: The white dash line in the widget is visible at the top and bottom when the widget is resized to the maximum size.
-
 
 Attachments: 
 https://drive.google.com/file/d/1DqSiKWmxu5GvR-G90cckJh5vSli6S9JX/view?usp=sharing
